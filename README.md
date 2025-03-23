@@ -1,1 +1,1 @@
-[![Maaaaaaaaaaaaaatty, Tinkering as a hobby ( ._.)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Tinkering%20as%20a%20hobby%20%28%20._.%29&title=Maaaaaaaaaaaaaatty)](https://pimp-my-readme-next.vercel.app)
+[![Maaaaaaaaaaaatty, Work as a hobby, tinker for a living ( ._.)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Work%20as%20a%20hobby%2C%20tinker%20for%20a%20living%20%28%20._.%29&title=Maaaaaaaaaaaatty)](https://pimp-my-readme-next.vercel.app)
