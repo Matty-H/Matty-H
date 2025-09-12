@@ -6,7 +6,7 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <!-- MedusaJS -->
-  <img src="https://file.notion.so/f/f/67b546a7-05e6-4c9e-bcba-d2785974e11f/ad92e22f-3b54-4f5d-9978-4ee73d85e6ca/symbol-light-bg.svg?table=block&id=ec4bd202-9dd9-4606-b558-074c53cbb270&spaceId=67b546a7-05e6-4c9e-bcba-d2785974e11f&expirationTimestamp=1756166400000&signature=_71jh9XCUVUS_INefOD9L1njitK_eCBUErHxl4MiUs0&downloadName=symbol-light-bg.svg" alt="medusajs" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/59018053/229103275-b5e482bb-4601-46e6-8142-244f531cebdb.svg" width="40" height="40"/>
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <!-- Godot -->
