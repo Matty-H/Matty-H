@@ -1,18 +1,40 @@
-[![Maaaaaaaaaaaatty, Work as a hobby, tinker for a living ( ._.)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Work%20as%20a%20hobby%2C%20tinker%20for%20a%20living%20%28%20._.%29&title=Maaaaaaaaaaaatty)](https://pimp-my-readme-next.vercel.app)
-
-<p align="left">
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <!-- MedusaJS -->
-  <img src="https://user-images.githubusercontent.com/59018053/229103275-b5e482bb-4601-46e6-8142-244f531cebdb.svg" width="40" height="40"/>
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <!-- Godot -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
-  <!-- Vite -->
-  <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-  <!-- Tailwind -->
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="tailwind" width="40" height="40"/>
-</p>
+```
+┌──────────────────────────────────────────────────────────────────────── cmd ───┐
+│ Matty@remote-server:~$ ssh matty@computer                                      │
+│ Hint: Stay happy like him > :(){ :|:& };:                                      │
+│       Work as a hobby, tinker for a living (._)                                │
+│                                                                                │
+│ Matty@computer:~$                                                              │   
+│ Matty@computer: cd matty/unixp0rn && lsconfig --showoff -c -m -d -b            │
+│┌───────────────── cpu ───────────────────┐ ┌────────────────── mem ─────────┐  │
+││ celeron               3.5 GHz     47°C  │ │ Total: 15.5 GiB                │  │
+││                                         │ │ Used : 7.92 GiB  \[██████░░░░] │  │
+││ CPU  \[██████░░░░]  45%                 │ │ Avail: 7.58 GiB  \[██████░░░░] │  │
+││ C0   \[███████░░░]  52%  Temp: 49°C     │ └────────────────────────────────┘  │
+││ C1   \[█████░░░░░]  38%  Temp: 46°C     │ ┌──────────────── disks ─────────┐  │
+││ C2   \[████████░░]  61%  Temp: 50°C     │ │ Total: 512 GiB                 │  │
+││ C3   \[████░░░░░░]  25%  Temp: 42°C     │ │ Used : 310 GiB  \[███████░░░]  │  │
+││ Load avg: 2.34  1.78  1.95              │ │ Avail: 202 GiB  \[███░░░░░░░]  │  │
+│└─────────────────────────────────────────┘ └────────────────────────────────┘  │
+│┌──────────────────────────── brain ─────────────────────────────────────────┐  │
+││ Traffic graph:                                                             │  │
+││ ▄▂▁▃▆▅▇▁▃▄▆▁▂▃▅▇▆▃▄▂▁▅▇▆▃▄▂▁▃▅▆▇▆▃▄▂▁▁▁▁▁▁▁▃▅▇▆▃▄▂▁▃▆▇▅▂▁▃▄▆▇▅▃▂▁▁▁▁▁▁▁▁▁▁ │  │
+│└────────────────────────────────────────────────────────────────────────────┘  │
+│                                                                                │
+│ Matty@computer: cd ../skill/ && ls                                             │
+│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
+│ ░░░░░ Software ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
+│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
+│ Front/           Back/            Langage/      Misc/         Design/          │ 
+│  ├─ React         ├─ Medusa JS     ├─ TS        ├─ Godot       └─ Adobe        │
+│  ├─ Vite          └─ postgres      └─ Python    ├─ Electron       ├─ Ai / Ps   │
+│  └─ Tailwind CSS             　　                └─ Python         └─ id        │
+│                                                                                │
+│ Matty@computer: cd ../ && ls                                                   │
+│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
+│ ░░░░░ Uptime / Age ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
+│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
+│ OS Age  : 10220 days                                                           │
+│ Uptime  : 3 hours, 21 mins                                                     │
+│ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
+└────────────────────────────────────────────────────────────────────────────────┘
