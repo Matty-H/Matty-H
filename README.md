@@ -2,7 +2,7 @@
 ┌──────────────────────────────────────────────────────────────────────── cmd ───┐
 │ Matty@remote-server:~$ ssh matty@computer                                      │
 │ Hint: Stay happy like him > :(){ :|:& };:                                      │
-│       Work as a hobby, tinker for a living (._)                                │
+│       Work as a hobby, tinker for a living (._.)                               │
 │                                                                                │
 │ Matty@computer:~$                                                              │   
 │ Matty@computer: cd matty/unixp0rn && lsconfig --showoff -c -m -d -b            │
